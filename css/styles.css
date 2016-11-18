@@ -1,0 +1,32 @@
+
+#myhead{
+  color: blue;
+  text-align: center;
+  font-weight: bolder;
+}
+#myHeader {
+  color: blue;
+text-align: center;
+font-style: italic;
+font-weight: bolder;
+}
+body {
+background-color:black;
+}
+.one{
+color: red;
+font-weight: bold;
+font-family: sans-serif;
+}
+#header3{
+font-weight: bold;
+color: blue;
+}
+#header4{
+font-weight: bold;
+color: blue;
+}
+img {
+        float: left;
+
+      }
