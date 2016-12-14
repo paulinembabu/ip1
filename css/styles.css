@@ -1,38 +1,13 @@
 body{
   text-align: center;
-  text-color:black;
+  background-image: url(../img/arrrtie.jpg);
+  font-size:20px;
 }
-#myhead{
-  color: blue;
-  text-align: center;
-  font-weight: bolder;
+#head{
+	font-style: italic;
+	font-size: 50px;
+	color: white;
 }
-#myHeader {
-  color: blue;
-text-align: center;
-font-style: italic;
-font-weight: bolder;
-}
-body {
-background-color:white;
-}
-.one{
-color: black;
-font-weight: bold;
-font-family: sans-serif;
-}
-#header3{
-font-weight: bold;
-color: blue;
-}
-#header4{
-font-weight: bold;
-color: blue;
-}
-img {
-        float: left;
-
-      }
-.rowone{
-  padding-bottom: 5%;
+#para1{
+	font-size:30px;
 }
